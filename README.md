@@ -22,4 +22,6 @@ The specific technologies that were used to refactor the code were HTML and CSS
 
 Screenshot to refactored application:
 
+Link to the deployed application:
+    https://jess-smith49.github.io/horiseonchallenge/
 
