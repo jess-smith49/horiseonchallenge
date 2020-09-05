@@ -21,6 +21,8 @@ The title was rewritten to provide a short description of what the page being vi
 The specific technologies that were used to refactor the code were HTML and CSS
 
 Screenshot to refactored application:
+![](horiseon-screenshot.png)
+
 
 Link to the deployed application:
     https://jess-smith49.github.io/horiseonchallenge/
