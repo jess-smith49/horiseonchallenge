@@ -15,3 +15,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+The title was rewritten to provide a short description of what the page being viewed is. I changed a few elements in the oringinal HTML file to semantic elements, and created classes for reuse and accessability standards. I also added alt attributes for all of the images. I reorganized the structure of the css file in a sequential order according to the organization of the HTML file so it is easier to read and understand. 
