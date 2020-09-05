@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* adjusted classes to support new nav element*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -65,6 +66,7 @@ p {
     margin-left: 20px;
 }
 
+/*consolidated content section for reuse and accessability*/
 .main-info {
     margin-bottom: 20px;
     padding: 50px;
@@ -106,6 +108,7 @@ p {
     background-color: #2589bd;
 }
 
+/*consolidated benefit section for resuse and accessability */
 .benefit-style {
     margin-bottom: 32px;
     color: #ffffff;
@@ -122,6 +125,7 @@ p {
     text-align: center;
 }
 
+/*changed this class to footer for semantic HTML elements*/
 .footer {
     padding: 30px;
     clear: both;
